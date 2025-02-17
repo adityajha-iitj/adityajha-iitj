@@ -35,4 +35,4 @@
 </p>
 
 ## Github Stats
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityajha-iitj)](https://github.com/anuraghazra/github-readme-stats)
+[![Aditya's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/adityajha-iitj?cardType=github&preferLogin=false)](https://git.io/awesome-stats-card)
